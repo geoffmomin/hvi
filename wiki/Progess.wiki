@@ -1,5 +1,5 @@
 #summary Outlines HVI Progress.
-#labels Phase-Design,Progress
+#labels Phase-Design,Progress,Featured
 
 = Introduction =
 
