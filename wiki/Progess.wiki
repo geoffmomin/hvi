@@ -5,7 +5,7 @@
 
 Holographic Virtual Interaction is a new concept which delves obviously into seamless, realistic interaction with holographic displays and even the currently available desktop screen. In this page, we will discuss the future of the technology and outline the current progress I have made in building a portable device.
 
-It must be known that holographic displays are STILL in the realm of science fiction (_although there have been many promising inventions: http://www.engadget.com/2007/08/31/researchers-develop-a-360-degree-holographic-display/ _). So creating a device to interact wit what doesn't exist is slightly daunting, yet possible if we can imagine how the displays may work.
+It must be known that holographic displays are STILL in the realm of science fiction (_although there have been many promising inventions: http://www.engadget.com/2007/08/31/researchers-develop-a-360-degree-holographic-display/ _). So creating a device to interact with what doesn't exist is slightly daunting, yet possible if we can imagine how the displays may work.
 
 <wiki:video url="http://www.youtube.com/watch?v=FF1vFTQOWN4"/>
 
