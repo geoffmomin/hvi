@@ -23,4 +23,9 @@ It must be known that holographic displays are STILL in the realm of science fic
   * Develop Software for the device. I used Java, so I would assume C+ can also be used.
 
 === Construction ===
-  * Will start soon...
+  * Due to the simple, inexpensive framework intended for HVI, construction only involves setting up a webcam, computer and test colour.
+  * Tested HVI with a green coloured test surface made from 20lb A4 paper.
+
+=== Troubleshooting ===
+  * ~~Ensure that the software can be calibrated with any colour (including green).~~
+  * Develop instant-calibration to minimize object handling transition time.
