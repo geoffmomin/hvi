@@ -1,0 +1,28 @@
+# Introduction #
+
+Holographic Virtual Interaction is a new concept which delves obviously into seamless, realistic interaction with holographic displays and even the currently available desktop screen. In this page, we will discuss the future of the technology and outline the current progress I have made in building a portable device.
+
+It must be known that holographic displays are STILL in the realm of science fiction (_although there have been many promising inventions: http://www.engadget.com/2007/08/31/researchers-develop-a-360-degree-holographic-display/_). So creating a device to interact with what doesn't exist is slightly daunting, yet possible if we can imagine how the displays may work.
+
+<a href='http://www.youtube.com/watch?feature=player_embedded&v=FF1vFTQOWN4' target='_blank'><img src='http://img.youtube.com/vi/FF1vFTQOWN4/0.jpg' width='425' height=344 /></a>
+
+# Progress #
+
+### Research ###
+  * Identified the dimensions of a 1920 by 1080 screen in terms of pixels. (We will create the software to work with an HD interface)
+  * Investigated Infrared lighting and its possible applications in the current project. Can be used to track objects.
+  * Decided to use 3D Anaglyph technology to simulate a holographic display.
+  * Head tracking will be a plus in creating a fluid tracking surface.
+
+### Design ###
+  * Obtained Materials: Solder, Wire, Floppy Disks (we will tear them apart. Film blocks visible light), 3D red-cyan glasses, coloured tape.
+  * Construct the display by projecting an image onto a picture frame. Attached the floppy film to a web camera to block visible light while accentuating infrared light.
+  * Develop Software for the device. I used Java, so I would assume C+ can also be used.
+
+### Construction ###
+  * Due to the simple, inexpensive framework intended for HVI, construction only involves setting up a webcam, computer and test colour.
+  * Tested HVI with a green coloured test surface made from 20lb A4 paper.
+
+### Troubleshooting ###
+  * ~~Ensure that the software can be calibrated with any colour (including green).~~
+  * Develop instant-calibration to minimize object handling transition time.
